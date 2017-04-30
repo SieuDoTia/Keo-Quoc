@@ -165,8 +165,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="-1325.214"
-     inkscape:cy="238.4707"
+     inkscape:cx="-1308.774"
+     inkscape:cy="189.40206"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -24847,5 +24847,23 @@
        id="path26673"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc" />
+    <path
+       style="color:#000000;fill:#ae9a7c;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1064.3725,956.37244 c 4.7011,-8.4211 13.3283,-22.84326 16.5867,-31.06092 0.2261,-0.5701 0.2343,-3.35743 -1.0019,-4.22347 -6.0287,-4.22328 -27.1047,-12.80481 -26.0614,-12.02559 1.1292,0.84335 17.84,8.20349 23.9323,11.96654 2.5468,1.57304 1.2843,3.68053 1.2168,3.87718 -3.6184,10.53667 -10.5176,22.07366 -15.2029,29.6101 -2.1339,3.43253 -0.9098,4.43601 0.5304,1.85616 z"
+       id="path6780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssss" />
+    <path
+       style="color:#000000;fill:#e7b36a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1166.5494,1014.8855 c 9.8628,-9.8823 18.8949,-25.11749 27.9932,-35.64637 2.384,-2.75886 -2.2502,-4.03616 -4.8355,-5.18902 -5.1618,-2.30179 -11.3309,-4.94539 -15.0241,-7.05146 5.8301,2.28713 12.6736,4.70133 17.8847,7.03001 3.5351,1.57973 5.4452,3.27618 2.9731,6.56218 -7.9887,10.61865 -18.7053,23.73176 -24.572,32.52696 -1.2152,1.8218 -6.3235,3.6756 -4.4194,1.7677 z"
+       id="path7550"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscssss" />
+    <path
+       sodipodi:nodetypes="ssscssss"
+       inkscape:connector-curvature="0"
+       id="path7552"
+       d="m -1102.2204,1045.2378 c 9.1128,-10.0073 18.7699,-27.9925 26.7432,-39.2714 2.1047,-2.9773 -2.7502,-5.6611 -5.3355,-6.814 -5.1618,-2.30179 -11.3309,-4.94539 -15.0241,-7.05146 5.8301,2.28713 12.6736,4.70133 17.8847,7.03001 3.5351,1.57975 5.9452,4.77615 3.4731,8.06215 -7.9887,10.6187 -18.7053,28.1068 -24.572,36.527 -1.2519,1.7968 -4.9842,3.5107 -3.1694,1.5177 z"
+       style="color:#000000;fill:#e7b36a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
